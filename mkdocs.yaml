@@ -1,0 +1,9 @@
+site_name: 'Documentation Template'
+repo_url: https://github.com/harness-idp-sandbox/morningstar-java-parson-two
+edit_uri: https://github.com/harness-idp-sandbox/morningstar-java-parson-two/blob/main/docs/index.md
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
